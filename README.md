@@ -43,7 +43,7 @@ A small bug in our Charades dataset evaluation code (related to rounding to one 
 The updated result of proposed approach on the Charades-STA dataset is below. Please compare to these results when using Charades-STA.
 
 
-| Method | IoU=0.3,R@1 | IoU=0.3,R@5 | IoU=0.3,R@10 | IoU=0.5 ,R@1 | IoU=0.5,R@5 | IoU=0.5,R@10 | IoU=0.7,R@1 | IoU=0.7,R@5 | IoU=0.7,R@10 |
+| Method | IoU=0.3, R@1 | IoU=0.3, R@5 | IoU=0.3, R@10 | IoU=0.5, R@1 | IoU=0.5, R@5 | IoU=0.5, R@10 | IoU=0.7, R@1 | IoU=0.7, R@5 | IoU=0.7, R@10 |
 | :--------------- | ----------: | ----------: | ----------: | ----------: | ----------: | ----------: |  ----------: | ----------: | ----------: | 
 |Proposed       |   29.68  |  83.87  |  98.41 |   17.04 |   58.17 |   83.44   |  6.93  |  26.80  | 44.06  |
 
