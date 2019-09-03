@@ -22,9 +22,9 @@ nltk.download()
 
 ### Evaluate Models
 
--- Download models from https://drive.google.com/drive/folders/1iJLdITzcT95wDj5nF85pOZpP5GCwfPbH
--- Please follow https://github.com/jiyanggao/TALL to download Charades-STA annotations
--- To evaluate on Charades-STA dataset : python test_charades.py
+* Download models from https://drive.google.com/drive/folders/1iJLdITzcT95wDj5nF85pOZpP5GCwfPbH
+* Please follow https://github.com/jiyanggao/TALL to download Charades-STA annotations
+* To evaluate on Charades-STA dataset : python test_charades.py
 
 
 ### Reference 
