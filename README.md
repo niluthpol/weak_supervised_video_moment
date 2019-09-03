@@ -42,7 +42,7 @@ If you use our code or models, please cite the following paper:
 A small bug in our Charades dataset evaluation code (related to rounding to one decimal place) resulted in slightly improved score of the proposed approach in Table 1 in the CVPR paper. We fixed the bug and updated the Table in arXiv. Please note that, our conclusion remains the same after the update.
 The updated result of proposed approach on the Charades-STA dataset is below. Please compare to these results when using Charades-STA.
 
-| Method   | <td colspan=3>IoU=0.3 | <td colspan=3>IoU=0.5 | <td colspan=3>IoU=0.7 |
+| Method    <td colspan=3>IoU=0.3  <td colspan=3>IoU=0.5  <td colspan=3>IoU=0.7 |
 | :--------------- | ----------: | ----------: | ----------: | ----------: | ----------: | ----------: |  ----------: | ----------: | ----------: | 
 | . | R@1 | R@5 | R@10 | R@1 | R@5 | R@10 | R@1 | R@5 | R@10 |
 | :--------------- | ----------: | ----------: | ----------: | ----------: | ----------: | ----------: |  ----------: | ----------: | ----------: | 
