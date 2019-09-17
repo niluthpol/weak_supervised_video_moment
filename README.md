@@ -28,7 +28,7 @@ nltk.download()
 
 
 ### Reference 
-If you use our code or models, please cite the following paper:
+If you use our code, please cite the following paper:
 
 > @inproceedings{mithun2019weakly,
   title={Weakly supervised video moment retrieval from text queries},
