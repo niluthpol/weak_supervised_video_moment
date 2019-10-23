@@ -1,4 +1,4 @@
-### Weakly Supervised Video Moment Retrieval from Text Queries (in construction)
+### Weakly Supervised Video Moment Retrieval from Text Queries
 
 Code to evaluate "Weakly Supervised Video Moment Retrieval from Text Queries" (Mithun, Niluthpol C and Paul, Sujoy and Roy-Chowdhury, Amit K) 2019
 
