@@ -48,5 +48,5 @@ The updated result of proposed approach on the Charades-STA dataset is below. Pl
 |Proposed       |   29.68  |  83.87  |  98.41 |   17.04 |   58.17 |   83.44   |  6.93  |  26.80  | 44.06  |
 
 
-
+-- Parts of code are borrowed from - https://github.com/fartashf/vsepp
 -- Contact: Niluthpol Chowdhury Mithun (nmith001@ucr.edu)
