@@ -49,4 +49,5 @@ The updated result of proposed approach on the Charades-STA dataset is below. Pl
 
 
 -- Parts of code are borrowed from - https://github.com/fartashf/vsepp
+
 -- Contact: Niluthpol Chowdhury Mithun (nmith001@ucr.edu)
